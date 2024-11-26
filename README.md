@@ -1,7 +1,7 @@
 <h1 align="center"> 💡프로젝트 주제 선정 </h1>
 
 <div align="center">
-    <img src="kirby.jpeg" alt="자신을 나타낼 수 있는 사진" style="zoom: 76%"align="center" />
+    <img src="kirby.jpeg" alt="자신을 나타낼 수 있는 사진" style="zoom: 16%"align="center" />
 </div>  
 
 <br>
